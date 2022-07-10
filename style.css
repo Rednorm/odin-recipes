@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: coral;
+    background-color: khaki;
+}
+
+ul {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 30px;
+    list-style: none;
+    margin-right: 50px;
+}
